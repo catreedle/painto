@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  background:#5F9EAF;
+}
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  font-size: 5em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: whitesmoke;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1em;
+  color: whitesmoke;
+  margin-top: 0
+}
+
